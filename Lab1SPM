@@ -1,0 +1,36 @@
+0) Les introduksjon til JavaScript på http://w3schools.com/js/js_intro.asp og svar på følgende
+spørsmål, ­ hva kan JavaScript brukes til?
+Jscript kan brukes til alt fra å endre på designe på siden, å skape en "output" for noe brukeren har skrevet inn. Den kan også brukes som en form for validering (passord, visse syntakster osv osv.)
+
+
+1) Les minst de to gitte linkene og forklar med dine egne ord forskjell på CSS id og class
+elementer
+ID'er kan skreddersys etter hva du trenger, mens class elementer er forhåndsinnstilte. Dette kan gjøre slik at CE (class elementene) ikke tilfredstiller dine behov, og derfor kan det være en idè og lage dine egene vha. ID'er
+
+
+
+2) Vurder og sammenlign brukbarhet til versjoner i deloppgave 0 og deloppgave 1 av designet
+for presentasjon av en liste (ta utgangspunkt at listen er mye lengre enn vist i skjermbildene,
+over 100 elementer).
+Deloppg. 1 : Dette listen er oversiktlig hvis det er mange ting som skal presenteres iom. at du har oversikt over alle språk. En idè vil være å presentere de alfabetisk for enda mer oversikt og for å gjøre det lett å finne et spesefikt prog. språk.
+Deloppg. 2 : Oversiktlig med få til medium mange elementer. En for lang dropdown menu vil bli vanskelig å finne frem i.
+
+
+3) Med hvilken HTML teknikk og designløsning løser Wikipedia
+ problemstilling med en lang liste av programmeringsspråk?
+Wikipedia har valgt å sortere alfabetisk slik jeg nevnte tidligere, og har brukt ID'er og liste funksjonen til den alfabetiske "hotclick" listen.
+Videre har de også valgt å bruke vanlig a href (link) på de alfabetiske systematiserte språkene under "hotclick" listen. Denne listen er veldig ryddig og oversiktlig.
+
+
+
+4) Ved å søke på WWW finn ut selv og forklar kort hva som er hovedforskjeller mellom et
+<div> og et <span> element (tagg) i HTML.
+Div starter i forskjellige linjer, mens span bare går på en linje. Div har også en bredde, men span ikke har dette.
+
+
+5) Hvike brukbarhetsproblemer er det med den siste versjonen av implementeringen i
+deloppgaven 2? Nevn gjerne hvordan man kunne løse problemene. (Tips: overlapp mellom
+forskjellige grafiske elementer og tilfelle hvor man ønsker å selektere det første navnet på
+programmeringsspårket i listen)
+Det kan oppstå forvirring fra brukerens siden når det allerede er valgt et språk i dropdownen før brukeren har valgt noe som helst.
+Dette kan løses ved å lage et blank alternativ i menuen
