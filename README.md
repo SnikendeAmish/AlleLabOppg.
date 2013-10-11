@@ -1,4 +1,0 @@
-AlleLabOppg.
-============
-
-Alle Lab Oppgaver

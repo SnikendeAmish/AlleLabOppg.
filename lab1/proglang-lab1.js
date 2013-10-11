@@ -1,4 +1,5 @@
-function ikkeFerdig(sidenavn)
+
+	function ikkeFerdig(sidenavn)
 {
 	document.getElementById("maintext")
 	.innerHTML="<br>Sorry men "+(sidenavn)+"e siden er ikke ferdig:>";

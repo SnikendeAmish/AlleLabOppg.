@@ -1,0 +1,4 @@
+Forklar hvilken deler av din applikasjon så langt, implementerer de forskjellige lagene i MVC
+arkitekturen. MVC står får ModelViewController,
+som til norsk kan oversettes til
+ModellPresentasjonKontorller.
